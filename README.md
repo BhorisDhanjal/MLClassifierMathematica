@@ -9,4 +9,4 @@ The code can easily be modified for any other objective.
 
 Source code as well as a pdf render of the notebook is added.
 
-The accuracy of the classifer model is 94.5 percent.
+The accuracy of the classifer model is 94.5%.
